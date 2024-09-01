@@ -5,5 +5,5 @@ Pillow
 Keras
 streamlit-option-menu
 SpeechRecognition
-opencv-python-headless
+opencv-python
 
