@@ -6,5 +6,6 @@ Keras
 streamlit-option-menu
 SpeechRecognition
 opencv-python
+opencv-python-headless
 
 
